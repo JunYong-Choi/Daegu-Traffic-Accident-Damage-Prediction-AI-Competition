@@ -1,5 +1,6 @@
 # Daegu-Traffic-Accident-Damage-Prediction-AI-Competition  
 Dacon_AI_Competition  
+팀 : 국민대 AI빅데이터 (이상준, 이상우, 최준용)  
   
 ### 외부데이터(활용방법)
 -https://www.data.go.kr/data/15075668/fileData.do#layer_data_infom(공공데이터포털)로 들어간다.  
