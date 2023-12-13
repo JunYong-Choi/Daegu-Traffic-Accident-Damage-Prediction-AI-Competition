@@ -1,5 +1,5 @@
 # Daegu-Traffic-Accident-Damage-Prediction-AI-Competition  
-# [DACON] 대구 교통사고 피해 예측 AI 경진대회 [(Link)]([https://dacon.io/competitions/official/236176/overview/description) 
+# [DACON] 대구 교통사고 피해 예측 AI 경진대회 [(Link)](https://dacon.io/competitions/official/236176/overview/description) 
 팀 : 국민대 AI빅데이터 (이상준, 이상우, 최준용)  
 
 주최 : 산업통상자원부, 대구광역시
